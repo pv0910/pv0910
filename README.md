@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 🔭 I'm currently working on some personal projects.
-* 🌱 I'm currently learning MERN stack and TypeScript.
+* 🌱 I'm currently learning MERN stack and TypeScript,Angular,C#,Dot Net.
 * 📫 How to reach me: pjv987@gmail.com
 
 **Languages and Tools:**
